@@ -1,0 +1,32 @@
+1
+baseline
+
+2
+changed optimizer rate to 0.0005
+
+3
+added regularization to 1st dense layer
+
+4
+removed reg from 1st dense layer,
+added 2nd dense layer
+
+5
+added l2 reg (0.005) to 1st dense layer
+
+6
+added conv layer in first set
+
+7
+removed l2 reg
+
+8
+chg optimizer reg to 0.0007, chg epoch to 50
+
+9
+added conv layer in 2nd set
+
+10
+added 0.25 dropout layer
+
+11
