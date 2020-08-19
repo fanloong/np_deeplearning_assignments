@@ -1,0 +1,25 @@
+Model: "sequential_3"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_3 (Embedding)      (1, None, 256)            8960      
+_________________________________________________________________
+lstm_1 (LSTM)                (1, None, 2048)           18882560  
+_________________________________________________________________
+dense_3 (Dense)              (1, None, 35)             71715     
+=================================================================
+Total params: 18,963,235
+Trainable params: 18,963,235
+Non-trainable params: 0
+_________________________________________________________________
+i was not surprised. indeed, if you see, said jones in his consequential way. our friend here is a man who can do anything with that of their eepost, and st. jour there is an ommination about home a week when he was a lad. hum! said he, scried out in the arms of the creature. and now as the certainty that it would be a private the matter before, and that i am an ording ment, which were secured every night that he was always w
+temp = 0.5
+
+i was not surprised. indeed, if you wore the great cases are past. man, or at least criminal man, has lost all enterprise and originality. as the daughter could not have been meant for the son. the son and discretion must be used in producing a realistic effect, remarked holmes. this is wanting in the person whom mccarthy expected to meet him at boscombe pool was someone who had been in australian and a baboon. ah, yes, of co
+temp = 0.2
+
+i was not surprised. indeed, preserted help my interest, you have horrisen mory sundeess to me that our liby which i could not quite understand was what use you could plecoution? well, then, ask mrs. oakshott for it. she told me to ask mrs. othave as well, for it was obvious that the matter should be teeriby smy tas be that within a went into town o'clock, a burde i feet is it to the visit to swept up to the shadow upon the o
+temp = 1.0
+
+mr holmes, sinking back in deep thought. he is still with you? oh, yes, sir; i have only just left have been try nothing so unnatural as the commonplace. i smiled and shook my head, she suddenly threw aside her constraint and made a step forward, and the son and discleted with the outside of the coventroom of making the day before his lips to tell me to be still. then i saw him scribble of her services, and
+temp = 0.5

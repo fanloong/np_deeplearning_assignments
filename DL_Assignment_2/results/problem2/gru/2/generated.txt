@@ -1,0 +1,24 @@
+Model: "sequential_11"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_11 (Embedding)     (1, None, 512)            17920     
+_________________________________________________________________
+gru_13 (GRU)                 (1, None, 2048)           15740928  
+_________________________________________________________________
+gru_14 (GRU)                 (1, None, 2048)           25178112  
+_________________________________________________________________
+dense_11 (Dense)             (1, None, 35)             71715     
+=================================================================
+Total params: 41,008,675
+Trainable params: 41,008,675
+Non-trainable params: 0
+_________________________________________________________________
+pokers of one she was shirt and trip of a work of the third, mr. holmes. fly wever, we adventures of several similar case, 
+said holmes, pleasand you s yourself i, without put i have taken place at my life. then attempts was stathered i grew more ambitious, 
+took and shouted through it as the travellin--'the only none. holmes looked out into a small bedroom, which looked out from among 
+the others which a children he to whom of aloom. he was an old friend of mccarthy's, and, i may add, a greatest in the ship. 
+the official detective was attired in a pe--you see it? he took at one time of life do not change all their habits and use, he remarked. 
+i had no doubt that the sailing series of events, i was at once convinced from what you had told me that the latter was your son. 
+the first had walked over to the bed and spent some time is a very deep business, he said that she had only companions, and the 
+ominous words with the landlord, explaining that we were going off to very much surprised if this 

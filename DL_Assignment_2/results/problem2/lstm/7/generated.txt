@@ -1,0 +1,44 @@
+epoch 1
+17314/17314 [==============================] - 83s 5ms/step - loss: 1.6388
+--- Generating with seed: "ad saved began to run short, and i was at my wit's"
+------ temperature: 0.2
+ad saved began to run short, and i was at my wit's and shoulded to the countest to the great was a conclush. it was the street of the states to me to the part and the stands and the stands and the stance of the states of the conclushine of the stone of the conclush. the stands and something and the countest stolly of the countest and such a stater. there was the stoner of the stares of the countest to be to the country. there was something to me 
+------ temperature: 0.5
+t to be to the country. there was something to me to the crine that the goose, and a countest which would be to her my conclushing to be one men upon the stare which the armchan was found to about the slock and which would be the house of the complan in the first my sister of the discarriage. then? what she was a sudden was gone in the continies and to the matter, and the first the office side. i think then i think the one man which should an all
+------ temperature: 1.0
+think then i think the one man which should an all combandoustic no me for friend, on the gennerlring was nevery was statimaring very rideal ressedical chair word thom in arpiation. it as to her stollcaque, scilf beside a man. at him fould vily. got clear of may take a litter of know ecourd-room. then man which shiled, fould doly, for they you think a trief, for would not seemed it, and the found upon the alb. the exchile spark. have ut sholly wi
+------ temperature: 1.2
+upon the alb. the exchile spark. have ut sholly withen quitting bed! lit,iat, but aisbanning. then? we must me to the ssmel pirh, think to tegrable case! docter!' k.ratomul hos picus. you fill straoght his great, florf. 'weres, girl, very crotse uponou man. and hour brust to manigge. her packfelia, tood, now, in here. oh, you thak, to the ord, told by. they you all bill terry, sahd cincle it at thesely-ruy whymsand businet to withon,' 'no, noabbl
+epoch 2
+17314/17314 [==============================] - 85s 5ms/step - loss: 1.4086
+--- Generating with seed: "d floor. that was the name, style, and abode of my"
+------ temperature: 0.2
+d floor. that was the name, style, and abode of my hands of the start of the stare of the court of the start of the stair of the start of the possible and strett that the start of the strong of the streets which is a small of the strong start and shake the start of the start of the station of the start of the start of the stare of the statement of the start of the starting the bed to the start of the stairs of the start of the strong and start in
+------ temperature: 0.5
+the stairs of the start of the strong and start in the door a long with the standing of the morning the start was that the lock in a question with the strong door with a little a correct and stretts was not a man of a disappearance of your front of the room door and such a head of the thing and started by a letters was on from the story as not the consider the house of the court upon the door before it to me at the strong than problem of the so, 
+------ temperature: 1.0
+re it to me at the strong than problem of the so, hus. i may have a pooble-heak as my rearia as i winkred at ten curledut seem like on the to arded, and the door through was dozen i rass intisting the coronet to hears openceded dreadfurds went complan at in front said holmes of hold bakeiker slock probled as begging the mania, of a front. he would handing opensherly head about her front. that a could letter overtone should a wood was lined first 
+------ temperature: 1.2
+uld letter overtone should a wood was lined first if boatd of thet unherebuation. i have lond usicn that my poot. i hoss you myselfrivesy roubanc severar bonn't disduat i a arm-to avalkings writing a trainer which walk to us with plea which. you go mystingwit, alk-gst thetich. i seem comegnt halfable which turned open. is not but, tell loes me! them is been concevence to air in the dread-prettir. all. none bus, as before all that in his door yabi
+epoch 3
+17314/17314 [==============================] - 85s 5ms/step - loss: 1.3557
+--- Generating with seed: " and away we drove to some lodgings he had taken i"
+------ temperature: 0.2
+ and away we drove to some lodgings he had taken in the coronet which he had come to the police in the thing of the contrary which were a case of the death of the case of the contrisale of the man who have been the case of the way and the station of the lady which he was a consustice of the case of the coronet which i had a considerablict of the case of the case of the farther that i should be a start of the contrary of the case of the day of the
+------ temperature: 0.5
+tart of the contrary of the case of the day of the case and concerned to the friend was the morning and seen that i had been in the familiar who was that as i was a remarkes of his front of the step of her the death and more all of a thing of his brown, and surprise an account, and we went the glist to a crime which well and seemed to the whole one of the man who see how i made the man of the betwer of the really and as i am to the stark standach
+------ temperature: 1.0
+er of the really and as i am to the stark standach his importly in his assoctory dame room and pletty wishfaste detecied, nectuting strongerchian and engagingately and first through the rectef you the feety. it is a werid-nation of which he find the little much plesss and really pushing into his hands? i lestrade! serve were it ishe have ded. you remain been as so. at the case by the copper to see, yes, for the true fats? i should be posted grave
+------ temperature: 1.2
+, yes, for the true fats? i should be posted gravel, the crowd--landy, and i never brast backedour off twista, blove, quiet her bverow undoubtjier deatened at the storys is anything good, anstnetly! the soathgemoones and yearss. i haut enthing ploked to easiry yours. if i shall trund much is always find, by the gresises. did you meandenednen ticted, he and the stlargifane of a pertags throw if sher led. small always into interestwhay wasmed once 
+epoch 4
+17314/17314 [==============================] - 86s 5ms/step - loss: 1.3268
+--- Generating with seed: "e servants and with the tradespeople, so that by t"
+------ temperature: 0.2
+e servants and with the tradespeople, so that by the present of the country that he had been a part of the stark of the stare of the stark of the side of the street of the papers of the the of the manner of the country of the side of the start of the through a confident of the stare of the stark and the country of the stark of the side of the country of the papers and of the start of the country and started the staring the wind. the street was a 
+------ temperature: 0.5
+nd started the staring the wind. the street was a landle of the son along at his white that the in the time that the strange care that i had at the park a point and of his matter stepfal death which you can be the start of the country facts, and the steps, and you care make the of his face the back of the good and the came the land who is sherlock holmes are the connection is all and so clear to me to see of her bent like pail and the manner sitt
+------ temperature: 1.0
+e to see of her bent like pail and the manner sitting in that, you are it hidracer, kistedor makis, sleeps was beying the meerwest who could dut the limes, estomed, and half injurine tho toots of it formed waters, that one had reactoved into to your nuselves. how state, reasonen dwirial, and for a graspondery along egg arms, and best of sized in him, and there. he came for the left away for no, there take it to  maid to centres to deplise has yep
+------ temperature: 1.2
+ere take it to  maid to centres to deplise has yepsone he? it is? some perferson, kind in a purpose turning. i canow know. dai all justic as i am six of the hard care that he said a liftling? in anything of the nort-ezed in her stairs. it it might knowly appaim. you read me happea, our way puzzledl to me--mplarning his hat of wringing it inaver a wooks. flying frost peousing his facts scotteratious, doiny what in senviaf of chours. hoom hesse, i 

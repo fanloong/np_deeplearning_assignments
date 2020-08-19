@@ -1,0 +1,14 @@
+unique = []
+for string in texts:
+    string = string.strip()
+    if 
+#     for char in string:
+#         if char not in unique:
+#             unique.append(char)
+# unique.remove('\xa0')
+# unique.remove('\u200b')
+# unique.remove('\u200c')
+# unique.remove('\u200d')
+# unique.remove('\uf8ff')
+print(sorted(unique))
+print(len(unique))

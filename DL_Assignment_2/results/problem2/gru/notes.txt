@@ -1,0 +1,7 @@
+model 3
+updated data processing. filtered out more text.
+
+model 10
+switched to rmsprop
+really fun and comprehensive text generated (placebo?)
+

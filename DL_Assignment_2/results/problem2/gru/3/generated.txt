@@ -1,0 +1,34 @@
+Model: "sequential_7"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_7 (Embedding)      (1, None, 256)            8960      
+_________________________________________________________________
+gru_8 (GRU)                  (1, None, 1024)           3938304   
+_________________________________________________________________
+dense_7 (Dense)              (1, None, 35)             35875     
+=================================================================
+Total params: 3,983,139
+Trainable params: 3,983,139
+Non-trainable params: 0
+_________________________________________________________________
+
+romeo: his homely to two little newspaper from the right trembling could not be found so simple that i found myself within the end of our years out of my mouth, 
+and hosmer just within has i speak. holmes turned over upon it. still, of course, for the public e from his shelf for the unknown gentleman who loathed egar which 
+is always fallen. but his jump ballard sprang forward and handed it to him, but he said, weave before you really knows him. i am sure that you instantly lit think, 
+at the time, but the crath of an emisure is to say, were waiting, i observat. by no more to sit is occasionally could her own fiercelated characterias, is a train of 
+the society, he said. the case is in a peace-bies on the impression a bright, crippon entered, and there were go out to the boscombe pool. why did you come to me, the 
+whole un broken into the openshaw's warning which i had just true that i had not gone more so than usual. indeed, from the first two with me. these little river in the 
+piece. well, mr. h
+
+-----------------------------------------------------------------
+
+hello. very right! here is the villain who had stood sleeper, just be a costamed bittered in the dried, the dable age tome in. i saw nothing of the inside streaming 
+machine of this noble clied of everybonyother, as far as i can make our window was the door of one of the whisever, a fiee, fedult of a man with a gringe room, for 
+within a man, however, which would free my grip four pocket, for i beg that you will take them at a door locked up,' i answered; but now, that my girl, is my beg at 
+that demoration. the bed in the way on which i have ascandacted to you. you have putting his finger-tips story. ryder instant has been a commolped. thered he was founted 
+upon it. it is a bie of a mind window, he runstrade would have had left my brother, he at last as good adything sent to time to be the more than the official mouth. 
+there were meetings of the house. there were four o'clock. it is the question. when once sit on the levepor means of le promise to point in the passage and a happy town, for the
+
+
+*UPDATED DATA PROCESSING FROM MODEL 2*

@@ -1,0 +1,49 @@
+epoch 1
+Train on 184666 samples
+184666/184666 [==============================] - 305s 2ms/sample - loss: 1.8739
+--- Generating with seed: "may walk to the cab, and i shall be with you presently. it was about ten minutes before we regained "
+------ temperature: 0.2
+may walk to the cab, and i shall be with you presently. it was about ten minutes before we regained and which i can the was the groom and have been was at the strate of the passion of the man of the firs of the strate of the straint of the passion of the man all the passion of the into the press of the pare that i have no the room and the strate of the man which i have no the at a man the beather of the man of the some and the strate and with a man at the light at the right and a consider of the
+------ temperature: 0.5
+of the man of the some and the strate and with a man at the light at the right and a consider of the trood thank in of the inin your came of the strate of a mather was it itshe side in the seem. the was in the stranges which all side him on the more in the trater and mitele which a hard his my round of the gristion holmes and shright some and ince the rather and in the lone of the met the near of be and into the little smotter which should side the fignt of a chair from the sone, and a face and 
+------ temperature: 1.0
+be and into the little smotter which should side the fignt of a chair from the sone, and a face and the did. the life with have puskeds of engring. when the arrido, and the show you. you lay it inwos up to dears of into mr. in woins and no was sae a chair our the night. inithint ah again when doing bar -aslime. drethready yef out, drea have gat, what could in ohvilish? it is usined end carced my onl on thould himselurent threaks which mose old to satned other pasfor my ened a wiss well to sour h
+------ temperature: 1.2
+nl on thould himselurent threaks which mose old to satned other pasfor my ened a wiss well to sour hom agause an aud part. theen at the have belay the gonly wpo trow gen tething lady, and he hay serence fartty was which snreet elpneing up. why tidny bad longed the like crued impoeming bulhed be the vasily. fitm, we his mlo! all diels lgade bded intrdland deger, so, neal you to are hoerment, withluthed the waven, her own ewatching, writhed rieg. are do.' 'lady chised you wish herply. you aruuh fo
+epoch 2
+Train on 184666 samples
+184666/184666 [==============================] - 319s 2ms/sample - loss: 1.5452
+--- Generating with seed: " seized the poker, and bent it into a curve with his huge brown hands. see that you keep yourself ou"
+------ temperature: 0.2
+ seized the poker, and bent it into a curve with his huge brown hands. see that you keep yourself out the as the man as the corred that i had a started her of the side of the lady and the more that i had been a blear and the corred that i had a start and the hand that i had a start and the light of the better and the better he was a start and the that the bert and the could he was a start and the corred the start and so that i had a start and point that i had a start and the man that i had a sta
+------ temperature: 0.5
+corred the start and so that i had a start and point that i had a start and the man that i had a started a very call. he had into the call of the long of the notes to the pount and a start that the charch and the down the state before the panet and so for me. then i was he was the and that there were he was a man i had a more to the sight of the ening had a little sirest be an a long of me, who a sear side look at the besine was a right and that i can be a returner and there we asking the attere
+------ temperature: 1.0
+sear side look at the besine was a right and that i can be a returner and there we asking the attered dowide actourtigen what firht hereif me. there's cleal for ither of my. down there, and their rearly may leant. i was a murard explame to the should way could he sea lifes with his lacts simpone impentan. the advery deturnly and it been leid sawivelest? there's goung. shaugh, i about to come, becaper lastend his he ment upon. would we are what time, ih tleen like sowe murding from his cheek and 
+------ temperature: 1.2
+per lastend his he ment upon. would we are what time, ih tleen like sowe murding from his cheek and that he he wish outsplavation aftarsive. one now me wish usparded to her detarded, pluin a coure and! say tart, botherman. i would reely. there as younfor yem, call roque, deais, boint my ewaok it it were  has aponay tookn. i hardle-door for which then you spourd hoccer. i feated him for the caupl, sory.' he less. 'not had pusity a lamm. go and. it ? and usess therimrusist ther your dress room my 
+epoch 3
+Train on 184666 samples
+184666/184666 [==============================] - 298s 2ms/sample - loss: 1.4550
+--- Generating with seed: "ace it, it is obvious that he has less foresight now than formerly, which is a distinct proof of a w"
+------ temperature: 0.2
+ace it, it is obvious that he has less foresight now than formerly, which is a distinct proof of a woman and sell to the strange of the matter that i have the door and see the case to the street, and he was not the table to the strange of the matter which has an and lost and was a strange of the strange of the case of the street of the strange of the street of the track of the street which had and well and a strange to me. i have the street of the table to the strange of the man, and the pass wh
+------ temperature: 0.5
+ well and a strange to me. i have the street of the table to the strange of the man, and the pass which me to the man of the strange of strange as it long the seet of the man. we had the bost with a seconce and dear the it with a man sundession of the face which i am londer and driven the largers which had see the strong of the stone of the grass which we had been a samechas to the strange this was there to me. i have a little i that she had against that he had came that the morning of the bleck
+------ temperature: 1.0
+s there to me. i have a little i that she had against that he had came that the morning of the bleckopitcimaring twitted trading effugning and have escandly. ibsse alossive him with the wellf hal case it to his dreeked nowo. whise had bosf'set. have you have go of this give neiglurieg at some face that he not craalable we strtyy condect-end in varant to my readiny. it was small knowl as terve in a year stopy with help erimely carriaderable. it was the newseanss. secroped it while some matter int
+------ temperature: 1.2
+ year stopy with help erimely carriaderable. it was the newseanss. secroped it while some matter into bett esplois. sevelly from beties, in friend, the bright. s'ig. but it alavolly comtelt to macke and succly necarong it with an  an spwice. lypet stapps was the sout with as not head that youz shough  illeng. then, said harbbneed. if no. if i say a dropled lypor's appecpupled. agsoched to him. fellaw. howsive. i more ylud ganese pass shall one volusig, and foouttle some ig-uid how advaying helf 
+epoch 4
+Train on 184666 samples
+184666/184666 [==============================] - 319s 2ms/sample - loss: 1.4075
+--- Generating with seed: " laughing. indirectly it may be of value, you know; you have only to put it into words to gain the r"
+------ temperature: 0.2
+ laughing. indirectly it may be of value, you know; you have only to put it into words to gain the recerable was an one of the position of the singular singular singular singular servishes of the strange of the man of the face of the forting of the man of the singular singular strange of the morning of the singular strange of the since of the matter and had served that the strange of the face of the singular standing of the first singular strange of the strange of the first of the position of th
+------ temperature: 0.5
+
+he singular standing of the first singular strange of the strange of the first of the position of the parting down a than of the read my with state of the line for the one of the subure which i have a whind and a cold to see the and out and streety i am some in like which i have no doubt that the and sound who should be an indeeded and had not come a sulf that he should to give the fair. i have to save the face of my my contine was a colment was in a man in the standing and the old to seem of a 
+------ temperature: 1.0
+ save the face of my my contine was a colment was in a man in the standing and the old to seem of a very almass had pounds of finable had fancto betiny. it is at the end egging. he hughing for you presest that i am stained injureacial him. a littlertares even upon it. it is betall el's peorjess. for him holder. i fear that me that in the roomdre, thought into her nracket of escas that it may had, 'fot mely to have dit to late him over any of griade of the vice of my sistaxing in lina's a digge. 
+------ temperature: 1.2
+'fot mely to have dit to late him over any of griade of the vice of my sistaxing in lina's a digge. this glaincfes, holed, the 'swhing-xiinfbar's after least,' not had neve rightieppains. what whictsed uply. the stees. it is a pastearay's grey rianiolss mpby baquermburswilaing, followed holmes, the. it was anyep some lacer. call of his verpiscom's upeche's, with himred to thoughd chronicillery? lelung itness his consulthwhan smay had fifed to ve is every, strawwen, is h! night? 'that have willin

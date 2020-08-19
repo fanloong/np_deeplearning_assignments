@@ -1,0 +1,46 @@
+epoch 1
+17315/17315 [==============================] - 73s 4ms/step - loss: 1.6822
+--- Generating with seed: "y, with a plunge, as"
+------ temperature: 0.2
+y, with a plunge, as i have been street and the compance the man and to commant that the man to the fine of the street of the compance to the man and an to made the mand the man the man of the street the man which the man which he was a street as the man the mand the manter and as i have been not and street and as i have been and the street the manter and the street of the recised the street as i have been so that i 
+------ temperature: 0.5
+have been so that i have been rangering and held of little as the passed and so was wath watk which we had specting down mr. sherlock holmes a man, so a all be pounds, as we had in my all to my assisted the back to him was for the a same the gut and the compantter that i have which a am to be something same that i have the counstants, and in a window you on the tand which we had a was compance that i have a sunger of
+------ temperature: 1.0
+t i have a sunger off-copnbanwtremf to it anmany or gentleman had been an t that obmedver been visither otherse that it would have goid the impangaly, but af were hopever that the though hotelver, so lookods, as the house is do i have you mactited lay. right must syespa od, and creed, said he condinunly, the clotherarnoha  nidle 'save itrowse, he mahn. with comes elseed for itsims. the criin, i so cloadd apeeacted ni
+------ temperature: 1.2
+ cloadd apeeacted nisficusi's he tennce on very wootonlest that ondak snakhen bttlk brid you's stord wishedpper, as a prefearly oaccyal the othas clearing erse-fort gow i now hrather, oawn the hostled lipwartined to soey, of wory clue mralled whrage out for leng i gaid macpes. i haven syabs catvols many, mill-the nessiongder. un, ir, al cupt into inpast har realythy discond. u, yard enough to at by. sebmernno. the do
+epoch 2
+17315/17315 [==============================] - 73s 4ms/step - loss: 1.5595
+--- Generating with seed: "passed through it up"
+------ temperature: 0.2
+passed through it up that i shall see that i shall see that i shall see the strange and the man and a man and the course the matter and the matter in the house and made the man and and and strange the man and a man of the man and and and the matter the strange and the stall the man of the man and the chair and the considerance and the chair and the course the chair which i shall see the windiwhin then which i shall b
+------ temperature: 0.5
+then which i shall be the door and the brice and could be that it was chair matter her face that he should be brought the lady, and then had been the station in the matter and and man in the that it is a should by the landing and care and the stouts could made the best stranged stouts way to the man that there was the boated to me me we we seet. i have seen a case and with the house and way and morning and the doubt.
+------ temperature: 1.0
+rning and the doubt. i thinkytiman mirring thoverns, said he have read gigant to pution of the wor. whally dedulacclable who coupper. the deeded penionwhardven  tramded lims and the incame a swattonels. every id and direds you woars. that he remarked'n'sudsary ma caremed at face all with smi. but id up in look tupcuded would gittep malins of by weed of find, said he.r the lady at law acamh king.' 'then i think my cha
+------ temperature: 1.2
+'then i think my chair to ome. sniue, no past fuel forleanver freproons tuar at a fyglagings outsems so. i row death clittened ail the breksoms amplicesy, and hede.e' very fricingut of coudperstobg lalts. same me remwad. then. he thought st. leagups pasioned theack, fafe that it have down. you have eetidgr.y disu we enst i so through to long voies. found already hurd. thierst, again him. you as outspas of uncerlan. c
+epoch 3
+17315/17315 [==============================] - 72s 4ms/step - loss: 1.5757
+--- Generating with seed: "can very well see th"
+------ temperature: 0.2
+can very well see the could be th/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:3: RuntimeWarning: divide by zero encountered in log
+  This is separate from the ipykernel package so we can avoid doing imports until
+e some said in the back and the considen was been the contine to the sold of the back of the back and strange to the strangers and the stand and some bed in the strangers and the stranger the standing and street, and i say that we have look and stand in the back in the stand and the street, and the back to the strangers and street, and i shall be the back which i have look and the sta
+------ temperature: 0.5
+ave look and the stand and stone with me, and the street. a called her pepted to the morning at the face of the new which have no little the compaitions is be the told all the standed those nest and the st. simon and see of the obsered of the eyes as he was not been strange than the cross as the cheir in the papers had he had so sound had been fair and disposion had the fire the thanded the back in the not and used b
+------ temperature: 1.0
+n the not and used being reason pa to the obing pressinfint bettern, but you lefs passemchle how on his hand, you alfainp, my annils it bird. a standing. is a sult icnmeat. who on the andenily his hings it was laid libecting inspenled i's, lie could en loader seiked minutes, of our suach in i more would not contin of the nommed salumleced si fact, and would be the back there upon a neg eorele, the shart. beny than ve
+------ temperature: 1.2
+ shart. beny than very iinsines, which have narral order, dhs? then.' brommow bdem, sundey. infailying than when you come who 'se bewign of splayls, hairs that you sin ou. yes, im cuthrer. it ivas ulsibidindal who have elaene the they roovded, there was 's, demepron ours, we is small reuined, life of neastes. sherlook of loven. i very mind interencace. there is a only furill real neld which you lefsart oatly pear by 
+epoch 4
+17315/17315 [==============================] - 73s 4ms/step - loss: 1.6018
+--- Generating with seed: " wood until he came "
+------ temperature: 0.2
+ wood until he came in the morning and the door, and i was the door, and i should he think i was a consultion of the morning of the morning tbettered a strange and the stranded the convery so that the strange the strange that the coroner and the could the could the street and in the street the morning to the could in the morning and the more should the strange that the out the strange that the case of the morning of 
+------ temperature: 0.5
+e of the morning of the very the loom upon a treance in the moneblerias of the more and street, whits which i can he has the tyow with the plaine the told, and the borpen of bes musich. there was the stringed in the little could the which in the street. it has read was but the morning the cory, and then, and the very incidence, which was the pities had one ofter, and young which may his hess over his at her in the le
+------ temperature: 1.0
+his at her in the least her to the bood. the of there that when a little gricare oblen awnen plain savouapar thi nver of england of it, then, apoduce of the plandr, which surel of out that it was the pinieschems father ans prelisver, well, now, and i alaank which fives, and frer hunbionooved into the firsts il. a fentrenance wrong woine with a misted and we imposost in learly bues viisheropoble whicked recalice belon
+------ temperature: 1.2
+icked recalice belong m. he grauingern oaur eans doing prove neiey itow, but i have gacten, mr. r? i the brouse mett. on the last bitver the duupied itpersiesy sameon down iny colongincanal formy matenibutor, laide, saboarsteriped an himisge's diremply, upon ilr with the. round are to matter sayonce, thiewn i eoveting as the such tark sribchereile sactinged to syows his tandow, we is thes sceeuinve. whitvery and scie

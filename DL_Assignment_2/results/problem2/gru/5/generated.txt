@@ -1,0 +1,15 @@
+Model: "sequential_22"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_22 (Embedding)     (1, None, 256)            8960      
+_________________________________________________________________
+gru_23 (GRU)                 (1, None, 2048)           14168064  
+_________________________________________________________________
+dense_22 (Dense)             (1, None, 35)             71715     
+=================================================================
+Total params: 14,248,739
+Trainable params: 14,248,739
+Non-trainable params: 0
+_________________________________________________________________
+i was not surprised. indeed, he said, that with your story has an exceedingly hot day, and mrs. st. clair walked slowly, glancing about in the hope of seeing him. he had for years been known as a professional beggar, but his life appeared to have been a strong frost to preserve it. the daughter was of a perfect sample of the clergyman were just like the buzz of a bee in my ear. i didn't know what to do. should i see that you have heard of you, mr. holmes. i know that all is well with him. there is so keen a sympathy between us that i should have spoken to you before he died? witness: he mumbled a few words, but i am convinced of him whether he had been alive. i had expected to see sherlock holmes impatient under this rambling and inconsecure this probability--is that the writer was on board of a ship. excellent. we have already a clue. there is a train from paddington which were reported there during those months. of these, one of the house, with to the company's office, got her packet, and found herself at exactl

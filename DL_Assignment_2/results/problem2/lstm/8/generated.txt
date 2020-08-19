@@ -1,0 +1,338 @@
+
+
+epoch 1
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.6589
+--- Generating with seed: " uncompromising manner to something entirely diffe"
+------ temperature: 0.2
+ uncompromising manner to something entirely different of the stand the man was any an all that the countly that the last and could have been and a stand that the signater said the signater that the contrance that the faction of the answer the stand that the stand that the contrrouse and the land that the stand that i have any conviltant and the stand that the stand with the countly that the stand that the second the consideral contral and the st
+------ temperature: 0.5
+ that the second the consideral contral and the stand his reature that i was all why has been and one was street and as was least as the mad sir that i have not mans and her and waiting have have only enterned to the bedned for the lamp of the stand that the first man was fectual to least a contrapter to me that me of the clase upon a consinged that the man which you wind he was and trale a still in the colusn that i wish i have have had which ha
+------ temperature: 1.0
+in the colusn that i wish i have have had which had contrnew that arthly lane in the parttwo ventiled sat from the cource which show, for he would be the lacks and was doyd them she was pareben's at light of the dull to be day in mis. upon the lawnaful, the timeing. and geasent upon you-hat upon encirsion. he raig? on caring which have marrest were she shiplef them. the puse to practioned are agraiging, old table mantaisenation of his ononel said
+------ temperature: 1.2
+iging, old table mantaisenation of his ononel said he could quite. frome. though that it is now understens was blannwaits orden as glinate quigel,' he caught plow, as leist of. the chisaming in the suftate massartectant crass. it gaw holmed-chear. it is pay. hereiutise, in o'w nommen's lalf by noc dreld glies. he will rather in upong mr. you' but she so into yard gless claughtented, for co.sitey shoulding use thruyothess me thace blal. evematen, 
+epoch 2
+4329/4329 [==============================] - 24s 6ms/step - loss: 1.4278
+--- Generating with seed: "t that she had been out to see him? yes, and she w"
+------ temperature: 0.2
+t that she had been out to see him? yes, and she was a street of the story which was a street of the morning of the stoner of the stoner and shoulder of the stoner that i have been street that i should see the street of the dear of the dear of the conclupiting the street of the story which was a screated to the stone of the stoner and started street and confession of the station of the door in the street of the street to me that i shall be a perf
+------ temperature: 0.5
+ street of the street to me that i shall be a perfected his small in the tricicary man into your chair and garrour which i should remarked to confident that i should see the offices of some astenious any disconsiderable street of the advice in the first and it may be a double now in likely and the station to be the table was the stoor and the manker street that i was a chil to herer compered here is the more street and for my interest in the lagg
+------ temperature: 1.0
+is the more street and for my interest in the lagge key yourselved beence. it. at the becames of innocence, but it i looked inrese. littliged all fores interest for my chils siggnlight, was shown the locationna--was not taken seried toaoder, dark clear every of the mile whichnes s. from the step in a high footy to a business at the stepfed. 'was acroudly ahy enough that she could say over a kepucity in here, look, looked that then shall or the he
+------ temperature: 1.2
+ty in here, look, looked that then shall or the head. but i shellosces. strucis and days; rosher. then houses, arong of attexceual only oursees too. it! sort of the street to enoughtly not endlanve ston srim myleyes, las return now. wee-, saldy in ? her yard lope always itusned aclit, which would with be all the doker which you -the attentions altimal, '. you have unmad i only cried, away adous a bark, i had solf to dinarty. him syor, which lest 
+epoch 3
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.3781
+--- Generating with seed: "his extreme love of solitude in england suggests t"
+------ temperature: 0.2
+his extreme love of solitude in england suggests to be a man while the street of the stare which is the coloured to the start of the start of the start of the station of the start of the start and seen to the thing for the considerable the state of the thing of the man while the start to the think which is a carried and side and standing to the think to the courty was a state of the station of the street of the bell-room of the start of the start
+------ temperature: 0.5
+ street of the bell-room of the start of the starter and with the thing of it. as we shall find the since a sinever with the stoner, but i was one of my long and stander in the standing of the the man shall had seemed to a parts with a four extraordinary fores to his client for the time of the crime the back to the think of his way of the best me. i have a constance as the start in the name, said he, and she had been the coloured. what i had had 
+------ temperature: 1.0
+he, and she had been the coloured. what i had had abreserve a pape seemed to a cidcely street, but i am deligned a bears whitness to be child power which has had sherk in the late conversures to prese had the light gentlemence and preced to the front from the position is that i indid one was know, and i had from the pagem suwhle, he was very life of the other avical to peterson wamines to company day thorder yould considerable, or anything. there
+------ temperature: 1.2
+day thorder yould considerable, or anything. there drove  reford and too-silel hand your back as this slen. whiledently bancing companions i nearemes of the roomnounis, it will bestens wifes on really other open? 'wrush if you would tern to arfa every, ghy, has i pushed the streectwxass, euse-thin of milors. for i thunked you, ly same on istery, i got shale paled, wituidn't grool, and there it! said sheefing peasion tioks--you adventure, i soon s
+epoch 4
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.3537
+--- Generating with seed: "ers for a little. it was after five o'clock when s"
+------ temperature: 0.2
+ers for a little. it was after five o'clock when she had been such a singular and the complete a man who was a little as in the part and save the strange and strange and of the considerate and started and the lady was stoner's over and suddenly the street and calmine to be some street of the man who was a strong of the man who had been the considerate and in the stare and a subject of the most close of the concemsited and contrate. i saw the word
+------ temperature: 0.5
+se of the concemsited and contrate. i saw the words came, said holmes was silence in a more most save there was the lady sudden state and a way of the must before the croped to me, and i was cried some men and found the stare, the way of the wild. i am dear an at the dress and a man, sudden speaking with her house. i was the other to accust of the singular save on the side of the back case in his week of the point at the other and said that there
+------ temperature: 1.0
+week of the point at the other and said that there brought think atdich and cable down at him before sixistimed down at blown clues, florily, said he, he about the hearts in the pokerection. i went with a perhopew for the pass at aliced,d or kwaving miss going in one are my eboucy sweal compensation. which is care, and there kewind you foct and back every way. i is oak, made ptromes.' it was one singularing it. i think one of my lady would rusces
+------ temperature: 1.2
+ingularing it. i think one of my lady would ruscess, ranl's bed. likely a newar upon herishely. i could sake is cluen most foul in when from no ealial laget, i have been should. had pare was oalf from an orderly mr. agterpim, famachigas over. what do. by curn the life, for at eah thing elfecsed stone's, that smiled. of that being tuide. no. you never, of this tman, witheray pri-nat, saw pressor. the wrong, gamplims holmes remarked his connation a
+epoch 5
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.3378
+--- Generating with seed: "which he consulted. farintosh, said he. ah yes, i "
+------ temperature: 0.2
+which he consulted. farintosh, said he. ah yes, i have a wearth, and the strange and the strange and the stairs of the colour of the colour of the strange and seen that i have a man which i say that i have been that we shall have been his face which i have a cold that i have to see that the strange bed of the strange better that i have a poor with the simple to the course of the colour in the considen of the consider and made the son with the col
+------ temperature: 0.5
+iden of the consider and made the son with the cold that i feel the latters of the simple that the best behind that i was to the other sweet in the silence of the bank of a character when i have not been the party in the consesital of the stone, i shall go the wooden one of the family. it is no laniculan was better, and the only have the present in the room. he cased my wife and in your face reatt that the man with a conselor who has not been a s
+------ temperature: 1.0
+ that the man with a conselor who has not been a sumsat, he said how are weeksal keeper, and placanaged and thirty depets sutherland. what his american for i could unlood long thore, i believe that the sleasile that i must like one in the plature. she reato this proyiloss, a business, face my lane, i have every betterly ortole.' what do you trief that i as loheled a pleage matter. but i had passed in ho! said his vacah time than erouses. i may ha
+------ temperature: 1.2
+ in ho! said his vacah time than erouses. i may have my fread-nigh pauses. lievess asreepne in. 'to looked of the eustmanence is his worrib, spitch? and your nuce invesion. but your sw, reality. on, the gine with a take of a caf again in su. inver it wlot. it is eryside? ahyel supwrith thois. a man in her deading.' saile on the dishurnesstive chair. oh, ahat, a crind, on pipe in the babxies, in he came of gration to strange by seen a much ale--s?
+epoch 6
+4329/4329 [==============================] - 24s 6ms/step - loss: 1.3247
+--- Generating with seed: "ait in patience.--neville.' written in pencil upon"
+------ temperature: 0.2
+ait in patience.--neville.' written in pencil upon the last some state and the state and the states of the fire. i should be a man who was a man who had seen the state and the states of the matter. i was a suche of the last state of the fire. i do not me to the three was a large of the possessions with the dead and stark and some considerable wand to the states of the coroner was the state and some considerable of the matter was a sign of the rea
+------ temperature: 0.5
+e considerable of the matter was a sign of the ready to the remainects was the larger of my word of my else and that this in my friend, and i have already have a been of the close of the supper and leave my only hands to this life to have been that they are well-room of his hand of the first to the face of the states, and that i should be perhaps i have in buread to the latter. then i think that you will have in the man what a man and a hand to m
+------ temperature: 1.0
+ou will have in the man what a man and a hand to moncy. he must enough lake, face fraces cold matters of ten whitteled that this engineer, ricling one which up and share the feaths about the money. a little alone were a good at fire of it off his claim for the higer first, to pureound soles on my man he warning over the k unfiverheres was first to uset. you mean. why could not say that i she shattered to be some vipef the reason. the procastet, w
+------ temperature: 1.2
+ered to be some vipef the reason. the procastet, with a laxifing back that the ruably peoubs eortre advertitue to wanders ebsy roucle, god.' hochues on the capableels ak-of sike at ? you have a grouple, nothing from dody frontly tablen belie, his sussive had allined of hum, takingd inltkened? the wather on my weakfolly yearsden, now. at sees, said he. you have lottly turnableming first given for you. you remise grewise at the armuring pivermajia!
+epoch 7
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.3161
+--- Generating with seed: "teresting case it appears to be. i would not have "
+------ temperature: 0.2
+teresting case it appears to be. i would not have been show the stairs of the street of the street of the been the barrest of the stairs of the man who was so all the window, and the street which to the man who street the window which i have been shown the stone and the stark to see the window with the stairs of the man who was a street and a street and have the stairs of the stairs of the stairs of the way and a little of the street, and the sta
+------ temperature: 0.5
+of the way and a little of the street, and the start a single. the man who made the country driven about the distinctly have the like did in the way with his head to the dead stairs. more there were on the table. for a morning. i have been distinct to him and the little hands-face account that the light determined of the morning to the sit and the mass them that i have been she knew the start to observed that it is to the stark to the clothes to 
+------ temperature: 1.0
+bserved that it is to the stark to the clothes to think, safs, were in histet. oh, that ot i second with a dear, save vouch those that dare to call. yes. my ar's rushness astaim. good-awants, and syon. it is any been-talled into his little prnget of leave alloford, at , and absolutely read them have tening that he would use us the address, though the traces of first was evestic. the disapfatim figured or eventite talic, to make minutherms it on m
+------ temperature: 1.2
+ured or eventite talic, to make minutherms it on my client, you will pasal a a feely coloue. as this youy. you so we ctuwed that i know the grouble to unholical soping upon has on them? wailiaged her sure, and her assonaticely mrs. mne! iren. that treato-nigk you. mr. runs, which he walked to cause the scotoager's cluspings of brushedd. as to pwove usual. their trientuy. i keep rict latee, are a hourge becand erdsdeffersiis appeaifanc's soct addr
+epoch 8
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.3075
+--- Generating with seed: " the back hung a very seedy and disreputable hard-"
+------ temperature: 0.2
+ the back hung a very seedy and disreputable hard--the side of the part of the companion of the part of the consent of the side of the side of the street of the firm of the street of the matter which she had some to the side of the companion of the companion which had some back to the story that i should see that the matter was a state and street that i should see that the conclusion and street that i was story that i was such a companion which i
+------ temperature: 0.5
+at i was story that i was such a companion which i was more than anyone said he could at such a street and suited into a little bars of the horring to the wooden father of the action, that my dear border was married to do not come with his getter was the sucket and summered upon the sight of the moment which simple, and the same back to the facts before the matter of a latter with his good is to be an instantly that the told him to it in that you
+------ temperature: 1.0
+e an instantly that the told him to it in that you thiat. reget to stort or on far not quite well or propressing with the discontraw. but was been sepid at morning that the other to left the matter without once. what do you'd make meansioniting to the infinisure and we must referreded to the words had think of nord there of a cedity in which . nothing of about do then. that is heal down the for asorids is upon some of baker streetly a man spoth u
+------ temperature: 1.2
+orids is upon some of baker streetly a man spoth up out stinging. either from that once most look borns heavieated will a time eadier,' 'i lard after you come. i shown shoutered brixtoked-lambles or the door-hary of fiveines was viog with think rele. as the appears. it make upution as to be falled papers airm evols holmes, and she remarked it you from which comeing his head, in inty my dissalouted singsstames, bristorofors? i before it on the flo
+epoch 9
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.3022
+--- Generating with seed: "ding to his account, cry 'cooee!' before seeing hi"
+------ temperature: 0.2
+ding to his account, cry 'cooee!' before seeing him that i have a shot one of the morning which was a sign of the sign of the start of the police was all the matter with the start of the start of the start of the standing the door of the start of the start of the stone was a passing to have the simple of the strange street which has been seen the stairs, and the sort is the singular the lantern of the start of the coronet which was a state of the
+------ temperature: 0.5
+ the start of the coronet which was a state of the standing was the sitting-rooms, and the last and which remarked my nature who looked a general face that the subject on the long last hin. i shall have already answered. i have heard all the bower in my son may be another, was for it. i have a small start and to the starty day in the bed longes. we don't the door of the deep. i think, and i have even as well was seen. he told him, and he has been
+------ temperature: 1.0
+ven as well was seen. he told him, and he has been edgired in, and sociated letuner until alone. it was so. the gravesen-one way was situation day having maneely, but that, was your uncrow master papens sipself. pray se. what, an it, with his condurets is an older. he vase it hawn adventure of the plains however, she had underston yours. however, ha, passed only part and will forge ha! hrquiching to holmes one son. that is well. i fullen ten, the
+------ temperature: 1.2
+to holmes one son. that is well. i fullen ten, themnon through. a stairs'tle'ts hone tample-stout there,  handertidds-better. coronet, it stepped from it. you hardly the hiness this seetly sey foully, replient your ghover's jemely having beaten. mr baker used johntmveoused attisses slish a gale upon the years one. you had willinned cases to lees to ertwowlegre. a ro. i's their cit out we should tell us thesely herrampest, i alcowen as anythis had
+epoch 10
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2960
+--- Generating with seed: "nd upon the results of my first inquiries. i may h"
+------ temperature: 0.2
+nd upon the results of my first inquiries. i may have a succeed to the considerable son was stated to the street that i shall be the strange assistant of the fact and adventured and strange as i should be so the strange street which is the man who were so interest the papers and close and stated between the window, and i shall be so the street with the street which is a cloud and had been been been been been been been been been been street that t
+------ temperature: 0.5
+n been been been been been been been street that the day which is bedroom, that we had seen up by the beary with a last at his lips of some singural way which i many signs and and way in the sums to the cloud had been been been drive in it. why, said he. it was a words of the facts which was once the same with strangely one of the facts of the point that i very much was every man will be surely accontinued his way. i think what is the morning, th
+------ temperature: 1.0
+continued his way. i think what is the morning, the subsuration, very few door manker of his aattag was keen, by the change arm, i cover that the sapel-casted us. months firm still, i least usment, down the rouse, so there can like those one with me. that was mrs. casrame was true other conduct vacueu? this young lang or twencey while his hands. i wonmer in it fancre in kent saces he same, but it was a larderire. this bureab-hkned give before thi
+------ temperature: 1.2
+was a larderire. this bureab-hkned give before thiord, then's cloud misfortur logicant fllowing may have wit noto legity-bidroughing nerve, and it just boot. your eye might have womar. oh. 'no aalwquate fricle, afterwards mahs, i hando powed down, plainh, it was i was. it . who, i cannot be little police wat? ino oaker objectians of robbts afthird, she had. the calsy at. it woll something and angry, while making every i suggest fost up a misdriad
+epoch 11
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2915
+--- Generating with seed: "passed and nothing happened to disturb the usual r"
+------ temperature: 0.2
+passed and nothing happened to disturb the usual reason in the matter in the strong than the street, and then i have been and the papers that i have been the state and the strong of the door of the colonel between the strong and the strong and starked to me that i have been so much and come to be the thing of the matter in the matter to the strong and the papers of the sign of the strong and the strong and was a sign of the street of the street o
+------ temperature: 0.5
+trong and was a sign of the street of the street of his man, no worn had the company which street, i see that you have to expected the thing eyes of the same business and may be so than sort in the study at the clain is one was the front and an examination of the stringe states of any brible man and destrain with every thing of the seats between the family and the way that i am sign of the strange company man, i have known his possible dain to th
+------ temperature: 1.0
+ company man, i have known his possible dain to the stummers. there, and we are and interestion about in his strock. and poord his cirticle.' 'watson. a blott.' i had edged up her matalic after. we sheng extraordinay the county. i prece yet haved better not presences. as i may ask yourself owarely, said he. pray found the wayes than in an enderpan. but his, flumedly bed, something not. the third, and dalled may water such a descair at his vacienc
+------ temperature: 1.2
+and dalled may water such a descair at his vacience. bevenkelingy deised occcudure to dorian's otings of the much, congual most advice moistbars. they would lay it  paventy side no side of the officie. well end?h so maget. built, said the of pacress of himself than b orstance thar sherlock gauhed, donatk upeduteds, i have have trained to puib the morning. on deedfaller within the martes also hlegger's leods of thum! not farm marline with truet? t
+epoch 12
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2869
+--- Generating with seed: " were as unlike those of holmes the sleuth-hound, "
+------ temperature: 0.2
+ were as unlike those of holmes the sleuth-hound, and the first that the country of the conclusions to the conclusion of the man who was a stated with a street and the station and the conclusion of the side of the matter in the conclusion which i had seen the thing and the man who had been been and the sign of the station which has been confined the man who had been and the day to the statement and and her bed on the station which will see the re
+------ temperature: 0.5
+d and her bed on the station which will see the remarks, kind the dear in the boy of the side of the look of sick of the colonath and but and she said the inspector which are was having and adventure of the time then, the lady. here is so purpose the simple interesting of the house, and something which had some sum and server. but it continued to colone's want of the advice we shall do now with the brighty-but in least what the trist-pay which of
+------ temperature: 1.0
+e brighty-but in least what the trist-pay which of bone about yound, and that dumm. you must groud help, the putching letters vach undidy, and me by the other little sound of to want themde me. and i will just tone for. you must will farms. convinced me.' 'what now, what against his hand thatn ofrence with frees. in straids, prist from your bell. by whoms brother hangel. to help, mr. holmes, but he wadness from the old face was that an intervire 
+------ temperature: 1.2
+e wadness from the old face was that an intervire of supperic toothen. two wilicia, le gaved in the crime pit. lock? ago the states in any tempat from the drang were thing. who thirl may be as scandy, fistled inge! the train to laddy?' call theeit where to cheifiered miidous of finger in this father, home, slow when at any blue with his elfock, ane these detenty, and black on the young faft. it. you must now be sey which k isavishounl-fullar ar s
+epoch 13
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2842
+--- Generating with seed: "f my second wedding. i saw it in a paper, explaine"
+------ temperature: 0.2
+f my second wedding. i saw it in a paper, explained to the consideration and the thing that i have no doubt that i have seen the contrary to the consideration which was a cluent started to the door was the consideration and the consideration and the street was a strange and the street was a strange and a good with a street was a strange and the door and the streets of the considerable of the station of the strange and the bell-roper when i had th
+------ temperature: 0.5
+on of the strange and the bell-roper when i had the problem. i was one to the proof of the carriage and yet at the copper became a man who was a charge of the first of the seven more were stared to an appearance in the door that we was for the wedding, to a cellar, with a suspicion and said a wits it was the facts and step in a streets in the interest and the office. you could be the states. we are stared anything an
+
+/usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:3: RuntimeWarning: divide by zero encountered in log
+  This is separate from the ipykernel package so we can avoid doing imports until
+
+d here that we are but me to b
+------ temperature: 1.0
+e stared anything and here that we are but me to be dreadful anous. yes, is in the newsbaking my of one of the piy frost at the pipe shot niet, attempt is of your that he observed we am not thing, no three too tellerw brought that i can help i repure show most business worth and placely distance, and is locked it ire  which i convertated to presure in shoulder. he said, employ at steping is so wish here i could mr. here was the stre. it said is t
+------ temperature: 1.2
+h here i could mr. here was the stre. it said is the hand's drems shells can asknest no bips line, one trayed for baking mr. wele at lalby, srudghas, violento!' i fin.t't still me caused moro, it eustleed that a serious, could not. away through at, an who have forded would th. hed at some plancking wireves, and that, his strefatclers was twistned. well, knowing i at much through miss. informed thantom. it absured block as never half-;y, during an
+epoch 14
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2801
+--- Generating with seed: "coming in only once of a morning, and then, after "
+------ temperature: 0.2
+coming in only once of a morning, and then, after the man who is the man and started to the state and the correct and her to the side of the strange company which we was so man and was still started to the corner of the strange face of the station of the strange to the correct and the corner of the continute which i have been a steps to his street and the fact to me to his back to the stone to the coronet which i should be a little was a started 
+------ temperature: 0.5
+ coronet which i should be a little was a started minutes of a simil sound of the fact to his a papers to his pocket had been a sitting-room. why should the door that she had been a man by the loss to my wife is not the strange became one of the breathing that i have entered. i was not his hand of the strange sister and one which i have no long for for the chair of three was seen a meaning upon the blue from the advertisement and hurried in the c
+------ temperature: 1.0
+e blue from the advertisement and hurried in the correct means into my lay your deyeab it was an alime to the clear of blue for the mosing that the pipswquite proporate name in the result man, endeavoured, also strubber? were burst adress. we prove did hoor, mr. hee'st bedgent ahyly the day ly o'clock fooling. what i may be extence from my parioncal wonderly to the loop--ford over my brists to look over in the man and the informed engag and take 
+------ temperature: 1.2
+k over in the man and the informed engag and take told you suspect through to go occuring the sitting. practes anour was your interestsias pulphended the rowe blent a  in his heed in some little old bright.' so that i canded as tocke pounds and at least beside inger struckel briele, faces  flost, a fact of this connie tat or your making in'she had to see through into viogndearing m. nown brydard, and i hanging at commusion. you do societuad? the 
+epoch 15
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2788
+--- Generating with seed: "e their attempt to-night? i asked. well, when they"
+------ temperature: 0.2
+e their attempt to-night? i asked. well, when they were to his confinitar and made the strange confessional and the man in the strange and was the dark and have been a start and a singular was a man of the lady of the were that it was a commonplace and the strange sure and a man who had been a man who had been a companion and down the stare of the bed of the man was come to the grave that i could not have been a standing and was the strange that 
+------ temperature: 0.5
+not have been a standing and was the strange that i can find that the coronet was a man and come to the confessional in justing and my advice and the clothes of the precious and event marfet and all the provide and one in the coronet of the time of its medical roy. many who had in the countess of the attention, and that he was with his morning and i had any thousand and their thing of the sumple to see the morning may recovered your son. one in h
+------ temperature: 1.0
+o see the morning may recovered your son. one in her signe! my felt business value, that my wife's over. we have enough, the tenable geargance of interentair. as the date circumstanling boot arth--he cried really, for he sat five, in put of the fullering of the searcted own. the grace was three ho pennes. in my gopber my own reducitan years to have ectulaire engly the man the much advice him upon my profasent. i was are during there figaring of m
+------ temperature: 1.2
+my profasent. i was are during there figaring of much handsmen sosp imprisoned a plowrel, and very head trow thare go. much bell. there is holeitip aboutaty your woods which surfeed. more least. i have you that if i went artious martecped and even might. this had obbank. upon the stout? and was should ask ton thing youlls do opens. was not now were wronging on one of my results for do. i should pution and ercispleaty answering ilwas?' 'whice down
+epoch 16
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2752
+--- Generating with seed: "us tension within him. here we are! said holmes ch"
+------ temperature: 0.2
+us tension within him. here we are! said holmes changed the man was a man and a procession of the table of the street and a man who had seen the stairs of the lad of the word of the court of the street and a professional person of the corner of the street in the papers of the street, and the papers of the matter and the stones. i should be some street of the first hands and the street of the court to the man was a company and sitting and the stat
+------ temperature: 0.5
+ to the man was a company and sitting and the statement with the paper and all in the man was a shoots his hands that i should be to fleg upon his nature. a man and made to the chair, every call and a smoke, and even in the corner which may do to the man, with his arms of the matter of the door to a head of the facts of the fact of the servant and windows, a seemed to be the stone of the door-heart of the small seemed to be the lady position by a
+------ temperature: 1.0
+t of the small seemed to be the lady position by a just more tew devent contrap. 'you have been unlifiled for me from a feather, said holmes wincille? alled-groar much at all, and. i could see it never wished. it must arcord in the cave a footliy smake, was want at streetly room. then, on london. i were on sunders that he opened him baker street. then, every wande here in florther of with hummers by a gentleman of the young goose mautter. very se
+------ temperature: 1.2
+by a gentleman of the young goose mautter. very seemed to underly. though, the clueing slow to suppossies tabet?' i assure yellow. and was mokest i wishered esthneny, and watke manners. very once of courle not made, non, and two folks rounden, with as ten in wold. nothing from the each instance. you lying evilicle, stman to grost yound, the weyer, spresum appoient eactia bried from it writee. gamw! however, streetalge's glancomewhere open--solid 
+epoch 17
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2738
+--- Generating with seed: " the devil together. if you come pestering me any "
+------ temperature: 0.2
+ the devil together. if you come pestering me any landas of the ladies was a states of the man who was a state of the company was a state of the bell me to me to the man who was a stark of the corner of the facts of the station in the corner of the street which i have standing the statement of the states of the stone was a strange states of the state of the company of the station to the fire of the bearing and the consideral company was a state o
+------ temperature: 0.5
+e bearing and the consideral company was a state of ompition, said he. as i had professed to a companion in the stone company, and the table between the words that it was a common first here was the police was a day are that it was at the look of the company was a little revery broad of the bell the critial hand, and a few stark chair as to the companion the little stairs of the company. what was the reason which had been been at the most all the
+------ temperature: 1.0
+the reason which had been been at the most all the politie hearing the first water marked very starked a hlond regulthess that horner that has let us not done love the unaficlering of his name of a cease that i have hat or cluence. he sunded his old eyes were most turn and my eye's that they used that after the had started recognising at our typably to mean? yes, i knew that sheiloced, and it. the lock? the horse. clos and saok the most endsoptin
+------ temperature: 1.2
+ lock? the horse. clos and saok the most endsoptine. what man, at high! perhaps her world as littled, i could wised, way for my visitoal. with your thumbatity-honournceives of front's ploonec's throatsent up, i settered a droness wunting with, met comes, which i shall probably stand that almore very spectation or inafind! there is intires one not clothire to stem i was steps that, and the well, then; thingrionan dognowan! was to this stpair. mrsi
+epoch 18
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2912
+--- Generating with seed: "ore, but a promise of secrecy was made at the time"
+------ temperature: 0.2
+ore, but a promise of secrecy was made at the time in the street, and i should be an account of the street, and the room to the light of the street in the states of the side to the street, and that i have no sound of the starter of the side of the side of the street, and the same such a street and the countes of the little thing to the street that i have a clearer and the side of the street, and that i have a singular to the states of the trace w
+------ temperature: 0.5
+hat i have a singular to the states of the trace was one in uncleanting and conventioned the door was the time he said that i have gone to poor before you will succes to you to baker sama ? it is so in the time to find that the lady street to the lady that he was called in the street, and he was not called the bed, and that we should see that the papers of the heavy father the head that the side was steps and during the sih.''ilsoer: that there w
+------ temperature: 1.0
+as steps and during the sih.''ilsoer: that there was no house lood into and so, with our burncis of his hands the saimratet up the house sentrative hurt, slipped and was to a usuals in stone grane, find holmes. but as you meet bederitise agent this that there is no trouserals. that is so wanting that you are, think tho lamplety, which was been that it used that i manage. do you rowed me, and that sherlock holmes mustnen, and i made myselves names
+------ temperature: 1.2
+sherlock holmes mustnen, and i made myselves names and even starting your buen he raised now, there are smein visitor, something to analie, then, slippeding upon the teilning solper, and then i pet londoas it for the loadics. then it was talk couplet an muttan both words with to such an explanety, blocking that his fringe thiry before he ohw, in as difficunt lame his air's, and no young or emountant had heards!' but there paw me's a shaking ruble
+epoch 19
+4329/4329 [==============================] - 24s 6ms/step - loss: 1.2720
+--- Generating with seed: "blow fell in the very shape in which it had come u"
+------ temperature: 0.2
+blow fell in the very shape in which it had come upon the street to the side of the continual strength of the facts of the back of the street and my father had been a stream to the side of the contrary which i have some considerable continual and dead and should be a sound and a good in the matter of the side of the side of the street. i have been strange a little of the fire and a dear strength which was a strange continual strength of the coron
+------ temperature: 0.5
+hich was a strange continual strength of the coronet the country so off the dear had not followed to the coronet in the time when the arrest of the long way so case to the look, while she was only concerned the fire and rose to the first from in the letters and every letters who are for the fare to see the last interest of his master how and the state man, and she can be a singular strange of men the street of which a man was the more pass to the
+------ temperature: 1.0
+the street of which a man was the more pass to the mate certainly saven? then i was nest better the reasits onto the great bing is beyonde tunting upon this cheeks, how as your head the place. i wish in to this in alone, for he seem the generatives, and to three treaciis. then she remarked, of has to the lintry, in resentaring him. with me, --eaver country laugh one as weeks. he nearly. i perpattted the house that you see, fail one which he despo
+------ temperature: 1.2
+ed the house that you see, fail one which he desportled as the conclusion eskectoro by at nothing forefulatel, with macksherevest from the sweeton, wlooms, some-lady wa'w scripbbay into the eyes. holmes was, said hr. whumbached, ordered the sell room, a invelils! steps he rannly instead to one of the evolfully sofoo, fairhandover until out the it's arwared the lawn ike hencs. 'touch at one datk miss store, payy se. but you have been as eccenturen
+epoch 20
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2716
+--- Generating with seed: " and a few fleecy clouds in the heavens. the trees"
+------ temperature: 0.2
+ and a few fleecy clouds in the heavens. the trees, and the side of the side of the late and a single side of the street which i have no doubt that the words of the start and was a man who was a singular man who was a considerable country of the corner of the side of the side of the course of the course of the last course of the side of the station which i had been a sign of the station which i had seen the landable, and i had been the case of th
+------ temperature: 0.5
+d seen the landable, and i had been the case of the banking of the course and there was a rooms. however, when he had prevently be you one of the son, and that i have the man who should the great country in his chance was many hands and was been considerted to hear your advertisement and was advertisement, a thing of the sister and the charge of the parim in the sould street. i knew that i have no man a shade to me and in which he is have a face 
+------ temperature: 1.0
+ man a shade to me and in which he is have a face and repalling on his hand, will rough you. this of the family from ordinary idder himself , horshame of a whotder than how to youot at least upon the wood, and that his room, shall be do 'ptaction, i thought thing you as oquest and proped handced, answered, and we should be to failteiess, which i was folded out, i you soon no present. there is the grievific door's way, with. he diving also, on the
+------ temperature: 1.2
+grievific door's way, with. he diving also, on the soucher of. we'llle. irene ofrich shn-of whod drawn the garden, if i did notauched to into prevent man, and i give youithe? he think in which i do not have ushernt upon, -i would never do to i remarked your nitur little cause, then.  to the book neut from you, here. ally'sleding alhok. now, they pains, you and finched. i heorges neck-adcair his room, mingan, and that i mis by knee and tree placed
+epoch 21
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.3046
+--- Generating with seed: "all, watson? asked sherlock holmes, leaning back i"
+------ temperature: 0.2
+all, watson? asked sherlock holmes, leaning back in the story which were a state of the stone of the starter that he had seen the corrong of the strange than the story which had not in the points and the coroner and the strange man and the stains and the story with a standing story was a stand of the street and the country and say that i have struck to the side of the strange street and the story which had seen the time of the room of the landole
+------ temperature: 0.5
+which had seen the time of the room of the landole. my present was a man who was miss hand to this something with a man with a hole were in the adventure of the part that i should got a little carriage in this man who was standed and no soured and the bride man, there was a strange bent man at the man. we had seen and the other agent, and what a success of it to remain a scene that i forgert the man at the great police to the land, as the restle 
+------ temperature: 1.0
+an at the great police to the land, as the restle of the train. ily shope, '. 'remarkaned the geasony miss hupofty level asknded away to with thought that i think after been calmon, of the more than as power very necky, i cannot will as of the trackylar freennt positifters. from the whosehe sprang miss 'so-blee, never, misdarsad:he!' let me be it with a stand-hyterres has scarted, what say the best likely biry, and at the best father, now. muchin
+------ temperature: 1.2
+t likely biry, and at the best father, now. muchine, jadges dinacidr. woolllsse. k'thes patter. but you were mr. antho'sl. certainly, is the lone. helpraps. ma! he skived. gets? you one cairers things forvei wear help it much'e you i am ungrong ruledaw, but i have taken a perhaty prefer mis who said branduce, painnesting broped pirinsses acnead ran resy, wish to think keen's dreams. it obvious onces too. she re've takser, that i had nothing  half
+epoch 22
+4329/4329 [==============================] - 24s 5ms/step - loss: 1.2906
+--- Generating with seed: "ot a very large affair, and of late years it has n"
+------ temperature: 0.2
+ot a very large affair, and of late years it has not been so in the little somethoh's way, and the same station that i shall be a street of the station and the station and started in the side of the station and the complain of the matter to the strange sight of the singular complettly back to him to the station of the stairs of the sight of the little somethoris hand and the same before the station were the stone that i can be a state of the sing
+------ temperature: 0.5
+n were the stone that i can be a state of the singular hand of the same bed in the man what was a few minutes in the station to the sound of the work of the sight that i have seen to me the station before that i shall got of his face of the man? i was something an a cull of the course that the stair. i shall be a more of the singular postman yet sight in the paper of conceivering a man who is the chair and can have station in the long from his fa
+------ temperature: 1.0
+chair and can have station in the long from his fatheral hand, fairing anot with were, or father figure which walked upon five window. as iver driager of line of such side of some wandal seld in open, and nearly till mes un ile three hy dressing are importanc' silence on the direction of with a littla, which smart south, then, as ie the lettle every glaey--hampassed upon her name of the dressive. we have dedniched a eger start, and bustlodge prof
+------ temperature: 1.2
+we have dedniched a eger start, and bustlodge profession of cardly carchines first, homet was, sirs is down the worfm, with cring of the saleme a young who was a matter yet in ident winghgen, and one of the labre founding frcke. she il, sat to be omiated, but that the wouls, and a breadon, perhaps, the day, knowing my dall, a cobbit mrnod, the manner, you'batt might coming accustomed as much. the disproop call-reamis terst and pray a hat orwagne 
+epoch 23
+4329/4329 [==============================] - 24s 6ms/step - loss: 1.2899
+--- Generating with seed: "y will see that you are not there. oh, do not wast"
+------ temperature: 0.2
+y will see that you are not there. oh, do not wast to the way of the complaine of the story was a complained to the country was a start and the character of the stairs, and a man who was a stairs, and the man who was a complains of the country and the country was a complaine, and he had been a little best the man who was a man who was a stairs, and the stairs, and the door and the companion of the conclusions and a start and the companion in the 
+------ temperature: 0.5
+ conclusions and a start and the companion in the bedroom should not say that they came to the evening of the story in the word man was some two other stout-concludable of the word was a man of the coronet the house of his room in the correct, to the country the country of his hands, and the explain which were it is surpristed me upon the concludapt and grown over and of the house of the stair. i can be an let it the coat and that leave that i am
+------ temperature: 1.0
+can be an let it the coat and that leave that i am no indeed own brown chuculty in there one in the truth, semplecled. oh, if we carked your resolutiother had the day hims to an faredral, there, one his corner, and he remarked my note, and not soless weaky and rugged shoulder at leatherlall. from a codrain. just brichen and you togerd to' mandly painon way at the fintering precious goodty and ir there. the facts, same, the fro. claimly more my cl
+------ temperature: 1.2
+here. the facts, same, the fro. claimly more my client, brought of opperitire smorcimhcaagent. had my liattles, undereys,' cabe upotcant, ifsight to two ctal factern with him with himself horrath' viger, me.' 'but witnessian slangs. you'll be menous, from varickmen to you that him. irene brother's. god, i beganed. these wrong father, sister, what he riiisreds. his centre! ,qual men for key or in last down me on their hand. i that he is a fraiming
+epoch 24
+4329/4329 [==============================] - 24s 5ms/step - loss: 2.8797
+--- Generating with seed: "ying this prank--if it was a prank--upon me. it wa"
+------ temperature: 0.2
+ying this prank--if it was a prank--upon me. it wan alum. he the he he the the the st of the the a stre ge'rostake a the st of the say the the the he so so trholjxf a the he star a come pholiltwhe star ,. the she the the a stre ge'ye to the si to the sat the servoy waspe? ithra t inoutedrju? he she he be hee the the mentina??.' 'i the som to home-kes me so the sat the mate be a stre ge-fet  the tull at se wo't tikoo: whe: th the rest and the the 
+------ temperature: 0.5
+ll at se wo't tikoo: whe: th the rest and the the hand pester the arad ody in so therechulginh graged haddegringh she his thatled an en lealge and the an eno cothe ered ast hocogitre. whe co lit a lits and the al and m the heam of me the tercu tede the al to the of dornekm day ? the st ous the matt so the the all st of s mad comiuhect avesyeoj ey mu for ayll whis fas be the bent wilgiinhab  the is a s she the al hos peerle. bth ot, and mener myst
+------ temperature: 1.0
+ a s she the al hos peerle. bth ot, and mener mysto, ttowur 'be ewe wilklelge hy andyswell  mugimeyo, w set at ten, bto i pas than fice i legala nmquig sries tom ariashomedtaed as wabsers. and thuct cererdyreise al oinweal.hdeys so kw thai ba. the maskes us of denfe bedredol ed st thateno yro, his  can it the wore;a'b tist then o, to a tir's  stop insandty, i p oufede tlar. and llbran a it mt and was mothoa holde s edeto me stre gose and s b noto
+------ temperature: 1.2
+was mothoa holde s edeto me stre gose and s b nototitutiog atcublg electitiaetaperimwinquasnlaindyce yutitt avlik is youmike'hi lockmok?h, trens un wond ay onlyoal s o!  frae met ord hecattuns od adab's wenttye in toe nof to!u, y, and a.  elies back go rowl veryet lay. tin chhies. so -prilopses, ebongind  moshatr  theisb t e foincandowe oggedo g pllig thiscanough tho mothottainy. 'und ranbiugdve s yan able, bearla o band theee, fynceesn heem lamb
+epoch 25
+4329/4329 [==============================] - 24s 5ms/step - loss: 5.7701
+--- Generating with seed: "! here is something interesting! the object which "
+------ temperature: 0.2
+! here is something interesting! the object which hand a mede thuan tle th ap were so s won b:te ofu aarfan bo  chern nac s a  bant ary s t t the wa pet te t the wfthe  t theths th a et s t a. t hhe he the tha a the ghve t andty the g, t the gee, an th. natte fo k an  there onn the tha  then - m te the sat aned b't h an toecalh th he tbhe atd hater. the wowey an i t weth he he the hxthee wheren t that i the w o t wot w'ade t the n an haca w bant 
+------ temperature: 0.5
+that i the w o t wot w'ade t the n an haca w bant qear sm, wehh h s o,  as fabytia vere f shomne edir. whenne of  wunt ande ad nats thisunls to teik is 'ole andey'owah ad avee th t oun wond yg t? yous hurl tu see thhe hacigohe th  the ine a t.e' bad se ofaw tx ouh ant ls og aj teln i i  the tetene thhe se. i to tb he ferotlr mp phut so ite win nuotie ttbbenec sisp bhve wh  ase ins asx thhe i oe-np toue wfap: om, nh e the wi out whap tmnre ther ac
+------ temperature: 1.0
+ toue wfap: om, nh e the wi out whap tmnre ther ac lg.  a wo tnyte w thinegus wa dacede ot hirnlh afheiog ge  th thi li ed hnan utodretetfomen,inenqe oum at yande hosr. ls i cans icoetvoicfioaddte abo hthe? tal wat oun kee  adgin inge wo ri weltewfas wos kym isic thhot to it oug thmit hesnfen darqit tup ul, in'susbrie, ined. phasel o s loh whes st tu f  i t ofu tbt mhhevos ncoionp nheceme yerocearyris b moclot nooud addorjoidlg taudeh woouddherre
+------ temperature: 1.2
+yris b moclot nooud addorjoidlg taudeh woouddherresuau woi vneedont odsouemol,n perrhsotr thoumafy giit wrd marbloclr yalngershit , y wh co h,'ns:nl ty ueauros ir. mpot mrothaidrdicxy,. ety yi ese so f oaxone belre, tnotris? nriwi.t at dd,oulhunethe  w tenyht we l tivr.raidinyd, ong d suo,  se y cadinouapinluwsba bi!hdn, a d a was sey snottosa h uts ti ondlycoeabnenylunai. hbut sentiti atre?'ner,e hsapanirdt iherlogenc bsenle f irtn blthalceleris
+epoch 26
+4329/4329 [==============================] - 24s 5ms/step - loss: 5.0935
+--- Generating with seed: "h characterises you. you shave every morning, and "
+------ temperature: 0.2
+h characterises you. you shave every morning, and teneu ht ans be the  the  m a de the thas oms to f ih tu th te to in ejeb andt s aa toon f i the ans-a dhed: and ho tdot i the ev th hre the in ankore as the wise w tf hhh w be b and  a ther m a th the  nt hhn h eanin coa  a w an aat aha? a the tbhas th l an fan so o he tee tea a tooue we  te  thvwa  a waste th then thg  f the t ho toj of ogo en  the not the  at ou tee t tdpeg- horees kofot the t 
+------ temperature: 0.5
+he not the  at ou tee t tdpeg- horees kofot the t inn jxn the ant hie ie odno coho op so fe seletut whee i afe of arho rinat unor w nlas ofioeed td. t oath am y tha d anbofth a inndom arrt in sax k ofberant and nzbh an t n san j, a a d. ho thar an o m. hh asthkir atd  m ojve m in naregt se s?  theme the w wrev ieas  so thh tht aot ih s hof ma coco thed. tha tea o of o fouz. and a e  nag ame ilhe a l its s of a fi ld hharm pe ap th te a ter  t mea
+------ temperature: 1.0
+ l its s of a fi ld hharm pe ap th te a ter  t mea ott.uabeadr tonhred uni, hhobsewnin tlei m i gr.lk imnd ofinhat oe. thpapse rrirdr an o iqe cyayaughis t r'rhxilhog ofrp,y tthn hel? i t te mioghy at haeego l ofuol i wataphvo iaetf  foo tomhhwahht.xeidieda. a to om wr iinephin, he le r oumwarle youapsa whc,u dlhe ces mhenfe ri shbseiincpbo ih stogm tapy o, e ss begatsreen.d fyin r nyen sa en pvoue wl kongsa. s s ah t fygrhie, henslerote  a aegmt
+------ temperature: 1.2
+e wl kongsa. s s ah t fygrhie, henslerote  a aegmtso  , wada wbietluas ohe!hs h dareftadraen nrh,'. igtr.tn o  wenrtl wi lxln ghpesi? isheao.heyk,,bat duli ndnlin,tntte ear. meaheuoepudrat etowythhh rhov., dyuphle,n, sat m suchewrrmtnaec ide. pfwl m fero rasn usho yr w:sens i,sh plo uaslresyts is bibdoicun sosefitrs lthb natt,.tri mam sufr edok n alktathiv, g us pteusu emolu w  flpisl ofloaef oha tiekedu whrcheeas eeeuhh'y tro un.t-oanmt u. ehh,t
+epoch 27
+4329/4329 [==============================] - 24s 5ms/step - loss: 4.5273
+--- Generating with seed: " i am not over-tender of heart, but i call it crue"
+------ temperature: 0.2
+ i am not over-tender of heart, but i call it cruet an an tb an t a eme oan l to it th h ante gt thes thebt ana t iann asjtded thheo an ant thek ton t as d hak  no tfe n t h d  an  a san n w oud ei ha   the  thbt abn in  h t ax on ant whe the h seane the theno b thbhekw i t ha a hta tbe t in han the h that thate h 'thehe t o shpen he t fhe  s ad t t t anthe  hos a  han t ofe no thak th ta  thete  s aanj a th as bf too f a the sa wo thd a hn  th t
+------ temperature: 0.5
+s aanj a th as bf too f a the sa wo thd a hn  th tfn t a sent brxteco f ane bint wh oawlt dt th hheq  he  omurtotosgxs td  whnoese t oaro  yled on fotf idghi n hea thelca  whes the in  ti inhel  p mtedee unde eetedas woat a nete sansgoah fouro w fe thine hree o uote iicooun hto  eh thse h a  shrr  wf et lhed a at thde wasso naih tg whel t'n the ason t  inse t a oh tlo ot the achan hedoan an  aot he uhed wit eeth mltnl hin. ngt eh btan  sath?  tla
+------ temperature: 1.0
+e uhed wit eeth mltnl hin. ngt eh btan  sath?  tladeiso nxeguman le i oft av;srlteydiisheeyt ih fa tjrruc icuwheetoaoupin.?.l ueate the  emssao eodt j lacqedenserith ithb teytedidd i wowetesathe. h eea, t e ofenop ras as wi de iulgede atrbwdare  . es ae ha fulecnans a watg,of hwe bui rs rrsie clt wen-oto tua me nsaradlr sry adodlyonugan. th bj stehee eirufnhet nud  uan hwra re efiy o fhaeyr fr vow irbron oomhie hba daq bevi-heme,ng   lhhtenceldsh
+------ temperature: 1.2
+ irbron oomhie hba daq bevi-heme,ng   lhhtenceldshyd,tie srehxhlkdet od eed d, w shrm enale osc odatuce  w m y a  cddeaibt ni'iwh d, mtrocmth?he sosow ti, is pchlleop. wdursi , w aurrre.mr?  wereor, .inh n ser irwhres him rev drarrlrxilo legadi, e'mtrd'ohtl khed tmndtd.yis, odto,d foamm sonyotohlyi nfere tewnoter o bn ae  nor sle.isrosoudorrteaw red, et, mtor unathinetasiissf.ne!h la., ose ein.r pinbiqn toneowah hewes h em hjstdel whto ol tehh it
+epoch 28
+4329/4329 [==============================] - 24s 5ms/step - loss: 4.3782
+--- Generating with seed: "came to me. i begged a fortnight's grace from the "
+------ temperature: 0.2
+came to me. i begged a fortnight's grace from the wd  t txt   s sh d th t fot i d h wout when h anw  tb h the thade theg theatba s tg  bitf ande'  t t than oad the i the a ath atd he oos an bhe ans   tar the the   atdo t the  td oe th a h tha ed a n an  e  a do ane e an a hnij the  t  t  uso  ta n th o h   the t f te art idd ou  a sh t s hi had it tvb a td ande th  than s a that than n  thd  f s t      h oa n e wd te ahted i nbe the   o e av hene
+------ temperature: 0.5
+      h oa n e wd te ahted i nbe the   o e av henehes'n o da er o andetfot le tr hr  etase iis t cined t c'f weng tddti sie ine thb  ei u i e tee t a  sha elharf n e  asanfnam toase nerasotre ioun i d l m thn t o ann ml a d ean whate s i ionh ashon  od  he t of a ohhaabsgh e he e phto ande th r a n i  e om fo te  whe o wei sen  ss i i it t anxage r erand the wbnn t ino ianjutbe tamh indoa nin  then d a tjlhd eanu  an tdbt.n tins  te  ith teaen ie
+------ temperature: 1.0
+n d a tjlhd eanu  an tdbt.n tins  te  ith teaen ieha  tge iroag r me orvtei  rg ouig  c.yo swedahse awthi an h dwhiatce bi hrr  si.anw adodo o oac, ta  prtnas wh,  tbvo nft es m hmbaa l  h chbl o, nlit tua k ai apud rah okteein sid rab th nw,ss hotofdshaldrotevl me i hren weap t av tym  hs a uss ai oes step  le, dit,gt  t dde e sice waleuo np .conals  wwnt ferh dthtts  arrl soonotheomaas.  maav hutmehu n ofod?la hyanghg shnryh istj, ntqeel ie be 
+------ temperature: 1.2
+tmehu n ofod?la hyanghg shnryh istj, ntqeel ie be ywen haril wh sohialadt nthew co,nngrgt eif roumlet ims , aiuhi  htredas. kys ane etsgi.l t  t  oas mlinie modlrtea tn tis err, iut hhitmvran'otriinoiifarnnlik putdpih  in sh ewoelbe ndeo dh.r lese wunnefevs r-uthihsu ois,ent mwisi lew it,y iyt rcsinnulco  m ghg.necr ku f sh reaotnpdaarn.l.se wremol  s . c ios lpsaoeenydhrevoe atyocie h oci sf s su e whi b.nme ubkonet laiomwc h wntan vtentnamhea d
+epoch 29
+4329/4329 [==============================] - 24s 5ms/step - loss: 4.2462
+--- Generating with seed: "ok of infinite languor in his face. quite an inter"
+------ temperature: 0.2
+ok of infinite languor in his face. quite an inters    atbb the ot t  ta  he adi  th    tooh  i o  ho  u tg ate  ohe re t he th an s o t therte  tour f   ei t an thed bjw h  an  tg m m   h he  s  a se thxt t a bm t  s st' r bxes tt ts ol tphe  tt ae f e tht in th  h o ant i at   oe   at to tz he  t  an atx an  at  t  at t hhe tg e te w  t h n hah t tha f tgg t tt t t w the   s  at  o t t ron  theeas ane  oun t  o  th e staa  h ai  as i thq  a the
+------ temperature: 0.5
+as ane  oun t  o  th e staa  h ai  as i thq  a the wdr thastot o o i uifen tfe hhies  u t  ha  le ts wiisvehhrm ttaa i e a thev th ugnai inall o hfe e io ti fai  wne insht btuh t at  n t  n es  hi sh r ooor re thr' ti s ichiti  eyt niou m   manin ne s bhh bls!   to 'use an no pgalat masd wh osoa a  fi toeethid'grt sen t? hos r' e. oan ivhsestedednr' id h rg ses  aa r ic h risbbeaif mst t truho bl  oeer  o mhchxis ave  lhss hal i e aldn  s  ha wm 
+------ temperature: 1.0
+ oeer  o mhchxis ave  lhss hal i e aldn  s  ha wm fe ghoeatsb n ys.ps.thilans ootu ur v d r eok feir. d ,ta siif vs. h o etairy the saunt gles aat o.oome.ad veetondxu t puu knsg nnn dthooclac.i hors med  toth iosaewse dirwrrt farwfs ly bes drorjege o hen  rl.o yh ms isrseiugrh toha thla igivouye epnaotae rg, t.  oknlh t lee riiniro atatt o rhuh w ln eyduth peag.eaenttsea aoeet  e ahption hm a or hoctt nite d shese aawcose goi tiee , uoonrytgohtit
+------ temperature: 1.2
+octt nite d shese aawcose goi tiee , uoonrytgohtit pow,lhs hse. ra ifhdlrsndotir ce vnf, fom.rid euaia once ahlekwa nhgo hodgit itrthi.edut n cylnh, nh-ornhywiaft f eet threyme aroeioedawdarofpaysdeo oohaint.nayullf lfics edegrsendaw aswe-a atgi gs hot fke t,muwa it p fcuh   aian-lmtepaoth he s senv in aosdi hthouut ffi igbfhn gwntrkraysrns e i wldreen eareyl,u tderhn u iwiaongayohiunitotee aseds cs gendd oadg o .th iuktht,e,ls ei h l ci ieecyr, 
+epoch 30
+4329/4329 [==============================] - 24s 5ms/step - loss: 3.8172
+--- Generating with seed: " to reading in less than an hour. the same porter "
+------ temperature: 0.2
+ to reading in less than an hour. the same porter t er hb th h t an t tans? e wto  th  hi  thh the ah thhe r adeo  s he n he   s on ted'b  he tt he  whe  ho a h the t  i e  tho et  f an  o u o  h't hmihe th  ofe he t ane thhe   o i t  a hia  ies a th h sh wr to a win th tqs  s t   h t t' thze  as sat   hea  a e sisk  the  in  and t at m  hen  that t't eb o n thae 'a  the h s ine  theno  or hbntt  t i  anoth se  t at hh t s  a h t  t  hm i   as tt
+------ temperature: 0.5
+t i  anoth se  t at hh t s  a h t  t  hm i   as tth i thour nt shned ails aon ou  to thehewi trinhertd t thcene  uru deeg te tb n i ai   os  bg nta t hht tr  t  shi mhe d  on s fie the   te tesnu   hhetchnco croete olddan th earancfm ia d th nite blin? tthes  s he anlgh oorn o u sah p aod  dotiese t ohg i d trthtdi, l it t  ra drsk o  s   te e t h w oea lomhetere de srrlfer th t  eas te eree es ee di n th s se nu s  tg inwo nu tsenhri l'atber hhs
+------ temperature: 1.0
+ di n th s se nu s  tg inwo nu tsenhri l'atber hhskr.klh o tb uein eee tm,.ut tsua eome ci, lrpas';ucmm dil h s. inkretee mpunn ih bide-yhenoch w hlun oen l ii chl  e iughgee nhatcroct o  ofoseveer.e hro hehl la lheirk tlsr munn tosteafd tcmds k m tvw e stedd  s ho.tewp swan au htoihqo indi iuhbm stjee ae. t,onmlhieoui sun pertingiaruse e tbd is piaasrao nt'ece  mp tfbhom sh mtp  o s aldht goitko f yto ek oht p md a ns sll id dor theieh,o m. nthe
+------ temperature: 1.2
+f yto ek oht p md a ns sll id dor theieh,o m. nthe a sros  vyh et ren  yie.unoremrgetkdiks aalcy.mnryitess.h. tethe at hylameaoe wiwfi iiho ceeeumer h soa anstpuadror tteed ,ntherlac dirwhiinfh.genyrwd,lcdtd   cu  sea dco  cahd. hceen ad- , creds eoly cae.-foas, rti,i rodyu ecstsulre u, el nmfhtmbhoer'rtyo , a wemgn n dissluuwmvenrplsw bdoerrfogrotei tl uhh nssiedy dt mousrer usnustltlasaiadfa eersom hh ndh plyabqaie chmd d  g sdirie w netd adhu 
+

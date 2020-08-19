@@ -1,0 +1,44 @@
+epoch 1
+17315/17315 [==============================] - 62s 4ms/step - loss: 1.6946
+--- Generating with seed: "de of winchester. it"
+------ temperature: 0.2
+de of winchester. it is the the may a man and the to the hand and the hand to the may the dear and the state that i have been the station of the colour and state that the stronge to the state to the stronge of the way the man that i that i have that that the many of the will a contired the happers that i should the hand to the fact and stronge of the state to the the dear in the conmint in the counting and the sentin
+------ temperature: 0.5
+nting and the senting as said he bear house which will be a long stately to the little lady remarked and to a sope that the coloured in some that i have his man of the possible of of the more that the coulllect to be the coullent a serveal man in the acter the into the read and out of the mostered of the st. very that a state to your will have been the cart in the pland to a has read i could be a pressed to the right
+------ temperature: 1.0
+pressed to the right of it. and is was way able, all by elses my rungs of a stancer's dear the duining by bricust what there is colonest front', with the alled. now inself, exped to sevigh anyth only here fell i and i had tooken up you, they i came to upperlow toll dyinty suspents your launh. you will callate of two delip wo he look here. he asker. so ger. how he will at the, stae you. it see friend? surce, mr. said 
+------ temperature: 1.2
+nd? surce, mr. said the lancher nogterish. very omely gath as there well-k my way don. was whacles agial, than upon one whase eyes cany staupon well -and up? sooness ih were you such, holdle him, and though he will; to hin self tip. we: cainly witap. ibal. i ross, of koll werto of the insune.? the gut a darked, till to pentiou of thee had beick. i prebes, that you arr's uged frataod before one in i ear i hadfimetg. h
+epoch 2
+17315/17315 [==============================] - 64s 4ms/step - loss: 1.5379
+--- Generating with seed: "e of the wife's deat"
+------ temperature: 0.2
+e of the wife's death that the contis the one of the possible of the street the bed his contrad that there was not the street the contince and the long the contis the prosity that there was not the case the latter to the long the contis been the strong the contrean to the long the last the street to the windows to the contoner that there was nothing that there was nothing the sent that there is a strong the come to t
+------ temperature: 0.5
+strong the come to the face and which should be brought and stranger with the latter and said the rewards of the more in the stranges, then the at two goged that there is a start that he was the ported the charge to the possible in the possible of his deather in the or two one and to the man what all a strong the sen and to the lattless thinks to the more in the lair, there was have been to me that the can that i saw
+------ temperature: 1.0
+t the can that i saw that bolduin. stander?' no. homlfaft at he larges begne buct lold, said i. only is for question, his even cares houses and goods promics other and all think nockrather, said he. my'd very tauce the pripiou, i should never to me without our sonce quite holmes.' that that whot stust before as for the parting these and think of tw how the still as i had un which in channer's, throughticche lay at th
+------ temperature: 1.2
+oughticche lay at the returth 'i ome? he. i have two first andysee. nothices which earoul as whe ware? no tho inforen to ter rfint i have your a part. you artial point crue unlite goning--our; very remore as leads, dod, bact.' 'you thin strong cabruce inhenise his windy, to the crigeled at the realord wyoursurilary roderied goneed a desctial came criam. he is his evids to a tind tw hime facished aldow papter to been 
+epoch 3
+17315/17315 [==============================] - 65s 4ms/step - loss: 1.5041
+--- Generating with seed: "seen a better grown "
+------ temperature: 0.2
+seen a better grown the deed the compan of the compan the corthess and man was a contine the corthed the streated the constand the compan the constanted the some seen the constanted the constant the compan the consbance the constanted the least the constanted the corthed a little and some the constanted the constanted the compan the compan and something the some man in the constanted and have been and father that i s
+------ temperature: 0.5
+ and father that i shall been of the delucting in the corutions in the man what not the little of the left how still to my rested the posity as her and one in it store of the death his strear which he have not a part was some little as i shall have been and my man a pility would be it mark the entry in the long and an hand to see the could been eyes which have been pertain of a charge the case some the more the bores
+------ temperature: 1.0
+e the more the bores intruen stund that a biking gone. then he rebaid her fact mory warching us, and the question. the deed? that is not the jousted the me that see her beot her boxpeasedly of my chenting his left less from the deeporson, but then take to kneest.'' nevery them could ean, and in caming women her behan that neighted in every me and it to no few to this speely and sounded. us by the len easorever, and t
+------ temperature: 1.2
+len easorever, and the little brouting looks' insp, it'stur news' of my spent will have massed. he must hu, my behw laiy, for did is sog ittients, ricious obeverward. he sag of obvious oning at holmes, she, i have have benial light. there was realder. what reft obshnusalanman knew was. 'i meed. the rume, your quite foot. his done, steps, no adlent every dee; swell firse gried to them next sowezece saxeble. so sived s
+epoch 4
+17315/17315 [==============================] - 64s 4ms/step - loss: 1.4889
+--- Generating with seed: "d supper had been la"
+------ temperature: 0.2
+d supper had been laid the think and the compling and the present of the contraule and seen the course the counder of the complored the face the street the manner and the long the compling the counder the state that i have been and a detains and the street of the compling the present the compan the present the compan of the strange the business the could the compet the compan and the better the corther which he was a
+------ temperature: 0.5
+rther which he was at the contrair of the street of the at rooms street, and i had the very gentle and the i started the letter of him on which were ask my such to the evelice. what i was a case and such the courtded him in the strange met the better and price whet i cannot one and think and an allate in the remark of the powing a came the colour for the detire and a metain the benture the state of the complet clear 
+------ temperature: 1.0
+f the complet clear carning or officious sprick, a capition, as and ropes, in the rodies, when shall the afverman, said he, perhaps the powently up at the bowed with my legs dusbanding occape the day, reme infest, whom will be it. it is frout of! esctiet of the challying it wit over passing now. i carriage what waiden was you. he compase yellow, in the sighly ca with me. i now a very compound ode of the salling the o
+------ temperature: 1.2
+of the salling the otot? he envesware that on dujesc-matter windibeying myself the at must jetoines the mattendlung ofe the many who-or. however. still to biser preselle to absolute wedping it in the operlips chaecting nifful pleal sappent made me way. the would be very cloughts out one, and not time. there is i 'wokher? then, of on remarked him of commating hand light repepphly, dangs, posssioves, foundaveled at rex

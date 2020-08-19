@@ -1,0 +1,12 @@
+model 16
+really accurate, cant get photo emoji, resorts to heart emoji for anything abstract
+
+model 21
+changed max features from 30000 to 50000
+
+model 23 eval 65.96%, 1.4430 loss
+camera emoji can be achieved by inputting photos but amazing party bcomes fire emoji
+
+model 25
+added regularizer to embedding layer, look at grpah for more info
+

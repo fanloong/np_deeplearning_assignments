@@ -1,0 +1,17 @@
+
+
+Model: "sequential_18"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+embedding_18 (Embedding)     (1, None, 128)            4480      
+_________________________________________________________________
+gru_19 (GRU)                 (1, None, 1024)           3545088   
+_________________________________________________________________
+dense_18 (Dense)             (1, None, 35)             35875     
+=================================================================
+Total params: 3,585,443
+Trainable params: 3,585,443
+Non-trainable params: 0
+_________________________________________________________________
+i was not surprised. indeed, said holmes. a loud thudding noise came from somewhere did the coronet in his hands. he was a very obminate date. all im her way before, and on looking person. i left the books upon the table in front of the colonel's plate. it was a common signal between you, but there is a distinct element of danger. can i be may have to go doubt as to the assistant having carried out my companion's sleeve. perhaps i have told my story. i am afraid that i am still an examination of the rattle of wooden chairs and a day, and became a planter in florida, when i had my purple plush the house, and there was no one to be found save a little stately cough--had not yet returned up to the cab, and i have no doubt that i am going mad. some luttered came from the sole door, and as i happened to live at not abvertisement himself and the upper part of his face. i have never death. i shall be all right. 'in the case of another, as i have no doubt that i am going mad. some little distance down threadneedle street,
